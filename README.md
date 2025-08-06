@@ -89,9 +89,9 @@ pip install torch torchvision matplotlib scikit-learn lightly tqdm
 
 | Method            | Stable Loss | Accuracy | Notes                          |
 |-------------------|-------------|----------|--------------------------------|
-| Autoencoder       | ✅ Yes       | Medium   | Good for simple representations |
+| Autoencoder       | ✅ Yes       | High   | Good for simple representations |
 | Rotation          | ⚠️ Noisy     | Medium   | Struggles with similar digits (e.g. 3 vs 9) |
-| SimCLR            | ✅ Stable    | High     | Best generalization & low overfitting |
+| SimCLR            | ✅ Stable    | Medium     | Best generalization & low overfitting |
 
 ---
 

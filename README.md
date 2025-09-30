@@ -20,21 +20,6 @@ Each method is evaluated by:
 
 ---
 
-## 🗂️ Project Structure
-
-```
-mnist-self-supervised/
-├── autoencoder.py             # Encoder-decoder model
-├── rotate_prediction.py       # Rotation-based self-supervision
-├── simclr.py                  # SimCLR model with NTXentLoss
-├── data_loader.py             # Augmentations and MNIST loading
-├── linear_eval.py             # Classifier training on frozen encoder
-├── utils.py                   # Loss functions, accuracy, visualizations
-├── train.py                   # Main training logic
-└── README.md                  # Project documentation
-```
-
----
 
 ## 📦 Requirements
 

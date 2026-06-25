@@ -94,7 +94,4 @@ pip install torch torchvision matplotlib scikit-learn lightly tqdm
 A self-supervised learning enthusiast exploring representation learning with simple datasets and custom implementations.
 
 ---
-
-## 📝 License
-
-This project is open-source and available under the MIT License.
+.
